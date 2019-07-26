@@ -5,8 +5,10 @@ I am currently learning Python and want to use what I have learned for data anal
 
 The questions that I will be answering will be some simple ones to start off with:
 What song is played the most over their career?  
-What song is the played the most year by year?
+What song is the played the most in their last full tour of 2017?
+How often do they play their hometown?
 What are the stats that fans would enjoy the most?
+All of these things and more can be accomplished through data analysis!
 
 There are no specific instructions except to run the script, the database should be created and then cleaned up, and the rest of the work will show the data reports.  Have fun and enjoy the magic of My Morning Jacket!
 
